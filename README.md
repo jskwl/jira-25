@@ -148,3 +148,4 @@ Atlassian Support
 4. Configure the Jira plugin or Jenkins job to use that credential (select the credentials entry you created).
 
 -----
+worked on UI

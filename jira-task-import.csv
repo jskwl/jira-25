@@ -1,0 +1,7 @@
+﻿summary,worktype,status,assignee,priority,duedate,story points
+Implement stock price lookup feature,Epic,To Do,ck.b@echios.com,High,07/11/2025,
+Allow users to retrieve live stock prices by entering a stock symbol,Story,To Do,ck.b@echios.com,High,28/10/2025,8
+Create user interface for entering and submitting a stock ticker symbol,Task,In Progress,,Medium,30/10/2025,5
+Integrate front-end with stock price API to fetch current market data,Task,To Do,,Medium,02/11/2025,5
+Fix incorrect API response parsing that displays the wrong stock price,Bug,To Do,ck.b@echios.com,High,03/11/2025,3
+Investigate and resolve intermittent timeout when fetching stock quotes,Bug,To Do,ck.b@echios.com,Low,05/11/2025,2
